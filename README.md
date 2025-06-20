@@ -160,7 +160,3 @@ Buku ini membahas teori dan praktik Machine Learning (ML) modern dengan Python, 
 
 ---
 
-## 🚀 Kesimpulan  
-
-Buku ini memberikan panduan lengkap membangun, melatih, dan mendistribusikan model Machine Learning dan Deep Learning untuk berbagai aplikasi nyata.
-
